@@ -27,7 +27,7 @@ const testItem = async page => {
     console.log(await page.title())
     await page.type('input[aria-label=search]', 'cli') // 要素に文字列cliを入力
     await page.screenshot({path: 'screenshot/sample3.png'})
-    const url = "https://hooks.slack.com/services/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";
+    const url = "https://hooks.slack.com/services/xxxxx";
     const webhook = new IncomingWebhook(url);
     testItem(page);
     await (async () => {
