@@ -1,0 +1,13 @@
+{
+  "name": "PuppeteerKintone",
+  "version": "1.0.0",
+  "description": "Puppeterr Toool For Kintone",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=15.3.0"
+  },  
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
