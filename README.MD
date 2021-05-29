@@ -1,6 +1,4 @@
-# Kintone自動入力
-
-Kintone自動入力サービス
+# Puppeterr Tool
 
 ## Getting Started
 
